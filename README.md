@@ -43,7 +43,7 @@ benchmark()
 
 ```
 / [root]
-├── code
+├── (code)
 │   ├── Benchmark1_ExtremeCases.R : Stage-1 (extreme cases) benchmarking
 │   ├── Benchmark2_MathEvaluation.R : Stage-2 (mathematical evaluation) benchmarking
 │   ├── Benchmark3_MetaMetrics.R : Stage-3 (meta-metrics) benchmarking
@@ -62,8 +62,7 @@ benchmark()
 │   ├── run.sh : Shell script (internal)
 │   └── utils.R : Common R utilities
 │
-├── data
-│   ├── LICENSE : License file for the datasets provided
+├── (data)
 │   └── MetricSpaces_Sn_[10, 25, 50].RData : Metric-Spaces data for 13 metrics for different sample sizes (Sn).
 │                                            Warning: Calculation takes too much time for Sn=50
 └── results
