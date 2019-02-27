@@ -36,7 +36,7 @@ load('MetricSpaces_Sn_10.RData)
 source('Experimenter.R')
 # Start the benchmark
 benchmark()
-# 
+# All the results (tabular data and graphics) are stored in the results folder
 ```
 
 ### File Contents
