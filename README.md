@@ -30,6 +30,7 @@ Run the benchmark in R.
 
 ```R
 # Load any metric-space with given sample size.
+# Visit http://dx.doi.org/10.17632/64r4jr8c88.1 to download metric-spaces for larger sample sizes.
 load('MetricSpaces_Sn_10.RData)
 # Source the main experimenter script.
 source('Experimenter.R')
