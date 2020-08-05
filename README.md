@@ -3,7 +3,7 @@
 
 [![Last-changedate](https://img.shields.io/badge/last%20change-2020--08--05-brightgreen.svg)](https://github.com/gurol/benchmetrics) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9337--097X-green.svg)](https://orcid.org/0000-0002-9337-097X)
 
-> [Gürol Canbek](http:gurol.canbek.com/Publications), Tugba Taskaya Temizel, and Seref Sagiroglu. (2019). BenchMetrics: A Systematic Benchmarking Method for Binary-Classification Performance Metrics. ***Information Processing and Management***, Submitted
+> [Gürol Canbek](http:gurol.canbek.com/Publications), Tugba Taskaya Temizel, and Seref Sagiroglu. (2020). BenchMetrics: A Systematic Benchmarking Method for Binary-Classification Performance Metrics. ***Information Processing and Management***, Submitted
 
 This repository provides ready-to-run open-source R scripts, example metric-spaces (i.e. universal base measure permutations for different sample sizes), and materials (e.g. tabular data and graphics) for benchmarking the robustness of thirteen well-known (classification performance) metrics via the seven new meta-metrics proposed in our article above.
 
