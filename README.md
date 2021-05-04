@@ -1,9 +1,9 @@
 ## A reproducible research compedium of
 # BenchMetrics: A Systematic Benchmarking Method for Binary-Classification Performance Metrics
 
-[![Last-changedate](https://img.shields.io/badge/last%20change-2020--09--12-brightgreen.svg)](https://github.com/gurol/benchmetrics) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9337--097X-green.svg)](https://orcid.org/0000-0002-9337-097X)  [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/1564477/tree)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2020--09--12-brightgreen.svg)](https://github.com/gurol/benchmetrics) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9337--097X-green.svg)](https://orcid.org/0000-0002-9337-097X)  [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://doi.org/10.24433/CO.1564477.v3)
 
-> [Gürol Canbek](http:gurol.canbek.com/Publications), Tugba Taskaya Temizel, and Seref Sagiroglu. (2020). BenchMetrics: A Systematic Benchmarking Method for Binary-Classification Performance Metrics. ***Neural Computing and Applications***, Submitted
+> [Gürol Canbek](http:gurol.canbek.com/Publications), Tugba Taskaya Temizel, and Seref Sagiroglu. (2021). BenchMetrics: A Systematic Benchmarking Method for Binary-Classification Performance Metrics. ***[Neural Computing and Applications](https://www.springer.com/journal/521)***, Accepted
 
 This repository provides ready-to-run open-source R scripts, example metric-spaces (i.e. universal base measure permutations for different sample sizes), and materials (e.g. tabular data and graphics) for benchmarking the robustness of thirteen well-known (classification performance) metrics via the seven new meta-metrics proposed in our article above.
 
